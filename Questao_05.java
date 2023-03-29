@@ -1,4 +1,4 @@
-package JobRotationRibeir„oPreto;
+package JobRotationRibeir√£oPreto;
 
 import java.util.Scanner;
 public class Questao_05 {
@@ -18,7 +18,7 @@ public class Questao_05 {
 			strInvertida += str.charAt(i);
 		}
 
-		System.out.println("String invertida: " + strInvertida);
+		System.out.println("Palavra invertida: " + strInvertida);
 
 		sc.close();
 	}
