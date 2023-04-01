@@ -1,9 +1,9 @@
-package JobRotationRibeir„oPreto;
+package JobRotationRibeir√£oPreto;
 
 public class Questao_03 {
 
 	/*
-	 * 3) Descubra a lÛgica e complete o prÛximo elemento:
+	 * 3) Descubra a l√≥gica e complete o pr√≥ximo elemento:
 
 	a) 1, 3, 5, 7, ___ 9
 
@@ -15,7 +15,7 @@ public class Questao_03 {
 
 	e) 1, 1, 2, 3, 5, 8, ____ 13
 
-	f) 2,10, 12, 16, 17, 18, 19, ____ 20
+	f) 2,10, 12, 16, 17, 18, 19, ____ 200
 
 	 * */
 
